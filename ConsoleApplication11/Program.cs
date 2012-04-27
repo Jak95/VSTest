@@ -9,7 +9,7 @@ namespace ConsoleApplication11
   {
 
     /// <summary>
-    /// Main
+    /// Main 2
     /// </summary>
     /// <param name="args"></param>
     static void Main(string[] args)
